@@ -1,233 +1,83 @@
-<!-- 语言切换 / Language Switch -->
+<!-- Language Switch -->
 <p align="right">
   <a href="./README.md">🇨🇳 中文</a> | <a href="./README_EN.md">🇬🇧 English</a>
 </p>
 
-<!-- 头图 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yuzc&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Learning%20AI%20by%20Doing&descSize=18&descAlignY=52" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0B1738&section=header&text=Yuzc%20Lab&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=Build%20small%2C%20reliable%20AI%20tools%20for%20real%20work&descSize=18&descAlignY=58&animation=fadeIn" alt="Yuzc Lab header" />
 </div>
 
-<h3 align="center">AI 技术研究者 · 终身学习者</h3>
-<h4 align="center">AI Native Thinker · Learning by Doing</h4>
+<h3 align="center">AI Products, AI-Native Workflows, Real Delivery</h3>
 
-<!-- 统计徽章 -->
 <p align="center">
+  This is the GitHub home for Yuzc / Yuzc Lab.
+  <br />
+  Focused on practical AI tools, reusable workflows, and more reliable human-in-the-loop collaboration.
+</p>
+
+<p align="center">
+  <a href="https://yuzc-lab.pages.dev/">
+    <img src="https://img.shields.io/badge/Website-Yuzc%20Lab-29A8D8?style=flat-square&labelColor=0B1738" alt="Website" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Yuzc-001/DriveMind">
+    <img src="https://img.shields.io/badge/Now%20Building-DriveMind-23C993?style=flat-square&labelColor=0B1738" alt="DriveMind" />
+  </a>
+  &nbsp;
   <a href="https://github.com/Yuzc-001?tab=followers">
-    <img src="https://img.shields.io/github/followers/Yuzc-001?label=关注者&style=flat-square&color=0984e3" alt="Followers">
+    <img src="https://img.shields.io/github/followers/Yuzc-001?label=Follow&style=flat-square&color=29A8D8&labelColor=0B1738" alt="Followers" />
   </a>
   &nbsp;
-  <a href="https://github.com/Yuzc-001?tab=following">
-    <img src="https://img.shields.io/badge/dynamic/json?label=正在关注&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYuzc-001&style=flat-square&color=00b894" alt="Following">
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Yuzc-001&label=访客&color=6c5ce7&style=flat-square" alt="Profile views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/Yuzc-001?label=Stars&style=flat-square&color=fdcb6e" alt="GitHub stars">
+  <img src="https://komarev.com/ghpvc/?username=Yuzc-001&label=Views&color=23C993&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-## 👋 关于我
+## What This Page Is About
 
-```yaml
-name: Yuzc
-identity: AI 技术研究者 · 终身学习者
-philosophy: 做中学 (Learning by Doing)
-location: China 🇨🇳
+Yuzc Lab is less interested in whether AI looks impressive in a demo, and more interested in whether it can actually help finish real work.
 
-研究方向:
-  - 🎯 做中学 AI — 通过实践深入理解技术原理
-  - 🌐 AI Native — 将 AI 工具融入日常工作流程
-  - 🤖 LLM — 大语言模型的应用与实践
-  - 📝 Prompt Engineering — 提示词工程与优化
-  - 🎮 强化学习 — 多智能体系统与决策智能
+This page brings together three kinds of work:
+- small tools built from concrete problems
+- reusable AI-native workflows
+- methods for steadier agent collaboration and delivery
 
-motto: "做中学，学中做"
-```
+> I know LLM and MARL, but I care even more about how those ideas become useful products, clearer decisions, and better outcomes.
 
-我是一名 **AI 技术研究者**，专注于大语言模型、强化学习与提示词工程领域。
+## Current Focus
 
-我坚信 **学以致用** 的理念——通过动手实践来深入理解技术，通过输出分享来巩固所学知识。
+| Area | What matters here |
+| :-- | :-- |
+| AI products and tools | Local-first, practical tools built from real problems |
+| AI-native workflows | Structured breakdown -> expansion -> evaluation -> delivery |
+| Reliable agents | human-in-the-loop, escalation boundaries, review, and reusable memory |
+| Technical communication | Explain complex systems clearly so they can be adopted and shipped |
 
-本仓库记录了我的学习笔记与研究心得，欢迎交流探讨。
+## Selected Work
 
----
+| Project | Description |
+| :-- | :-- |
+| [DriveMind](https://github.com/Yuzc-001/DriveMind) | A reliability layer for AI agents built around steadier execution, clearer escalation, and reusable memory |
+| [vibe-101-publish](https://github.com/Yuzc-001/vibe-101-publish) | A Markdown publishing workbench for WeChat, Zhihu, Word, and social card workflows |
+| [prompt-engineering-learn](https://github.com/Yuzc-001/prompt-engineering-learn) | An interactive way to teach prompt engineering with hands-on, visual learning |
+| [Hands-on-rl](https://github.com/Yuzc-001/Hands-on-rl) | A teaching-first breakdown of DQN and PPO implementations that keeps the RL and MARL foundation visible |
 
-## 🔭 研究方向
+## How I Work
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🎯 做中学</h3>
-      <p>Learning by Doing</p>
-      <p><i>实践驱动的学习方式</i></p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🌐 AI Native</h3>
-      <p>AI 原生思维</p>
-      <p><i>将 AI 融入工作流程</i></p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🤖 LLM</h3>
-      <p>大语言模型</p>
-      <p><i>应用与能力边界研究</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h3>📝 Prompt Engineering</h3>
-      <p>提示词工程</p>
-      <p><i>提示词设计与优化</i></p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🎮 强化学习</h3>
-      <p>Reinforcement Learning</p>
-      <p><i>多智能体与决策智能</i></p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🛠️ AI 应用</h3>
-      <p>AI Applications</p>
-      <p><i>前沿 AI 工具应用</i></p>
-    </td>
-  </tr>
-</table>
+- clarify the problem before building
+- use AI to expand options, not to outsource judgment
+- reduce rework with cases, checklists, and evaluation
+- stay accountable for the final delivery
 
----
+## More
 
-## 🌟 学习理念
+- Work and notes: [yuzc-lab.pages.dev](https://yuzc-lab.pages.dev/)
+- GitHub: [github.com/Yuzc-001](https://github.com/Yuzc-001)
+- Contact: [`zxyu24@outlook.com`](mailto:zxyu24@outlook.com)
 
-> *"纸上得来终觉浅，绝知此事要躬行。"*
-
-| 理念 | 说明 |
-|:----:|:-----|
-| 🎯 **做中学** | 通过实践深入理解技术原理 |
-| 📝 **输出驱动** | 通过写作与分享巩固知识体系 |
-| 🔄 **持续迭代** | 保持学习，持续优化 |
-| 🌐 **AI Native** | 善用 AI 工具提升效率 |
-
----
-
-## 🛠️ 技术栈与工具
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h4>🤖 AI 助手</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Claude-8A2BE2?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-        <img src="https://img.shields.io/badge/Manus-000000?style=flat-square&logoColor=white" alt="Manus" />
-        <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h4>💻 开发工具</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
-        <img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h4>🎨 AI 应用</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Lovart-FF6B6B?style=flat-square&logoColor=white" alt="Lovart" />
-        <img src="https://img.shields.io/badge/YouMind-4A90E2?style=flat-square&logoColor=white" alt="YouMind" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<details>
-<summary>📊 完整技术栈</summary>
-
-| 类别 | 技术/工具 |
-|:-----|:---------|
-| **AI 助手** | Claude, Manus, ChatGPT |
-| **开发工具** | Cursor, GitHub Copilot, Codex |
-| **AI 应用** | Lovart (设计智能体), YouMind (研究助手) |
-| **强化学习** | PyMARL, XUANCE |
-| **日常工具** | Python, VS Code, Git |
-
-</details>
-
----
-
-## 📚 项目与笔记
-
-| 📂 | 仓库 | 说明 |
-|:--:|:-----|:-----|
-| 📝 | [prompt-engineering-learn](https://github.com/Yuzc-001/prompt-engineering-learn) | 提示词工程学习笔记 |
-| 🤖 | [LLM_path-planning](https://github.com/Yuzc-001/LLM_path-planning) | LLM 应用研究 |
-| 🎮 | [Hands-on-rl](https://github.com/Yuzc-001/Hands-on-rl) | 强化学习实践笔记 |
-| 🔬 | [pymarl](https://github.com/Yuzc-001/pymarl) | 多智能体强化学习 |
-| 🧪 | [xumce](https://github.com/Yuzc-001/xumce) | 深度强化学习实验 |
-| 🎯 | [marl-playground](https://github.com/Yuzc-001/marl-playground) | MARL 实验环境 |
-
----
-
-## 👥 社交网络
-
-<p align="center">
-  <a href="https://github.com/Yuzc-001?tab=followers">
-    <img src="https://img.shields.io/badge/-我的关注者-0984e3?style=for-the-badge&logo=github&logoColor=white" alt="Followers">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Yuzc-001?tab=following">
-    <img src="https://img.shields.io/badge/-我关注的人-00b894?style=for-the-badge&logo=github&logoColor=white" alt="Following">
-  </a>
-</p>
-
----
-
-## 💭 每日一言
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Quote" />
-</p>
-
----
-
-## 📬 联系方式
-
-<p align="center">
-  <a href="https://yuzc-lab.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-个人网站-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
-  &nbsp;
-  <a href="mailto:yuzichaoyzc@163.com">
-    <img src="https://img.shields.io/badge/-邮箱-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  &nbsp;
-  <a href="https://github.com/Yuzc-001">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
-<p align="center">
-  📧 <a href="mailto:yuzichaoyzc@163.com">yuzichaoyzc@163.com</a> &nbsp;·&nbsp;
-  🌐 <a href="https://yuzc-lab.pages.dev/">yuzc-lab.pages.dev</a>
-</p>
-
----
-
-## 🤝 交流合作
-
-<p align="center">
-  欢迎对 <b>AI 技术</b> 感兴趣的朋友关注交流
-</p>
-
-<p align="center">
-  <a href="https://github.com/Yuzc-001?tab=followers">
-    <img src="https://img.shields.io/badge/-关注-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow">
-  </a>
-</p>
-
----
+If you are building AI tools, AI-native workflows, or more reliable agent systems, I would be glad to connect.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0B1738&section=footer" alt="Footer" />
 </div>
 
-<p align="center">
-  <i>做中学，学中做</i>
-</p>
